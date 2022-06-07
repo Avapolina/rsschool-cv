@@ -1,6 +1,8 @@
 
 # Polina Avakova #
-Junior frontend-developer
+Junior frontend-developer  
+
+
 ![Here should be my photo, but if you see the text - something went wrong](https://github.com/Avapolina/rsschool-cv/blob/gh-pages/%D0%90%D0%B2%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.jpg?raw=true)
 
 ---
