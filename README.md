@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Avapolina.github.io/rsschool-cv/cv
