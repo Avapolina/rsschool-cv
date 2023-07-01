@@ -1,4 +1,4 @@
-#Polina Avakova#
+# Polina Avakova
 avakovapa@gmail.com
 ***
 Junior Developer. Learning new things every day. 
