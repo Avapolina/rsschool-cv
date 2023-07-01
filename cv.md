@@ -1,8 +1,8 @@
 # Polina Avakova
 avakovapa@gmail.com
-***
+
 Junior Developer. Learning new things every day. 
-***
+
 **Skills:**
 * Project management 
 * Low-code tools
